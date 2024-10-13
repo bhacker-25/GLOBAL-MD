@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "923444844060;Qasim";
+const ownervb = process.env.OWNERS || "919401105736;Bhacker";
 
 const ownerlist = ownervb.split(';');
 
@@ -22,11 +22,11 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 console.log(global.owner);
 
-global.botNumber = '923051391007'; // Put your number here for pairing directly
+global.botNumber = '919401105736'; // Put your number here for pairing directly
 
-global.mods = ['923444844060'];
-global.prems = ['923444844060']
-global.allowed = ['923444844060']
+global.mods = ['919401105736'];
+global.prems = ['919401105736']
+global.allowed = ['919401105736']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -43,7 +43,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https:hannel/0029VagJIAr3bbVBCpEkAM07'
 
 
 global.APIs = {
@@ -73,10 +73,10 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'GLOBAL-MD-V3'
+global.botname = 'BHACKER-MD-V3'
 global.premium = 'true'
-global.packname = 'GLOBAL BOT'
-global.author = 'GlobalTechInfo'
+global.packname = 'BHACKER BOT'
+global.author = 'BHACKER'
 global.igfg = 'https://instagram.com/global.techinc'
 global.fgsc = 'https://github.com/GlobalTechInfo/GLOBAL-MD'
 global.fgyt = 'https://youtube.com/@GlobalTechInfo'
